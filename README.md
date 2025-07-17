@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashin</h1>
-<h3 align="center">Passionate software engineer</h3>
 
 - 👨‍💻 I’m someone who loves computer's and could spent hours infront of it creating something new.
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🤖 Studing Robotics Engineering
 
-- 📂 All of my projects are available at [https://github.com/Ashin-Santhosh](https://github.com/Ashin-Santhosh/)
+- 📂 All of my CS projects are available at [https://github.com/Ashin-Santhosh](https://github.com/Ashin-Santhosh/)
+- 📂 All of my robotics project are available at [https://github.com/A-s-h-i-n](https://github.com/A-s-h-i-n)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
